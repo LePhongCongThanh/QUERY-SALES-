@@ -219,3 +219,9 @@ FROM BIKESTORE.production.brands
 
 SELECT *
 FROM BIKESTORE.production.categories
+
+SELECT * 
+FROM BIKESTORE.production.products
+
+SELECT * 
+FROM BIKESTORE.production.stocks
