@@ -217,3 +217,5 @@ ORDER BY totalrevennue DESC;
 SELECT * 
 FROM BIKESTORE.production.brands
 
+SELECT *
+FROM BIKESTORE.production.categories
