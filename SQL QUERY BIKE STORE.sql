@@ -225,3 +225,6 @@ FROM BIKESTORE.production.products
 
 SELECT * 
 FROM BIKESTORE.production.stocks
+
+SELECT *
+FROM BIKESTORE.sales.staffs
