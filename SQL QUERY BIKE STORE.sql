@@ -214,3 +214,6 @@ GROUP BY CTE_cash.store_id, store_name, street
 ORDER BY totalrevennue DESC;
 
 
+SELECT * 
+FROM BIKESTORE.production.brands
+
